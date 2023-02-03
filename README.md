@@ -1,3 +1,3 @@
 # My_shopping
 ----
-- site [website](https://deepakgautam-dev.github.io/index.html)
+- site [website](https://deepakgautam-dev.github.io/index)
